@@ -1,7 +1,33 @@
-Restaurant OnePage HTML5 restaurant Template
-========
-<img src="https://cloud.githubusercontent.com/assets/10640964/8260476/cfaac5a0-16e5-11e5-8fc8-e9d3f46796e1.jpg" />
+# Restaurante Casa do Sabor
 
-<a href="http://themefisher.com/download/restaurant">Live Preview</a>
-========
-Restaurant is a html5 one page landing page template developed based on twitter bootstrap 3.2. It can be used as show case for your restaurant website .We organized file structure and descriptive comments on codes will enable your showcase easy to maintain.
+Site one page de um restaurante fictício de comida típica brasileira, com apresentação,
+blog de pratos, cardápio com preços, notícias e contato.
+
+**Acesse o site:** https://fsckathy.github.io/restaurant-website/
+
+## Tecnologias
+
+- HTML5 e CSS3
+- Bootstrap 3
+- jQuery, Owl Carousel, WOW.js e animate.css
+- Font Awesome 4.2
+
+## Estrutura
+
+- `index.html`: página principal
+- `css/main.css`: estilos do site
+- `css/responsive.css`: ajustes para tablet e celular
+- `images/`: imagens do site
+- `js/`: scripts
+
+## Como rodar localmente
+
+Basta abrir o arquivo `index.html` no navegador.
+
+## Créditos
+
+- Template base: [Restaurant](https://github.com/themefisher/restaurant-bootstrap),
+  da [Themefisher](https://themefisher.com), sob licença MIT.
+- Fotos: Unsplash e outras fontes, sob as licenças de cada autor.
+
+Os dados de contato exibidos no site são fictícios.
