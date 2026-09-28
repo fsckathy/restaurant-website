@@ -1,7 +1,7 @@
 # Restaurante Casa do Sabor
 
 Site one page de um restaurante fictício de comida típica brasileira, com apresentação,
-blog de pratos, cardápio com preços, newsletter e contato.
+blog de pratos, cardápio com preços, notícias e contato.
 
 **Acesse o site:** https://fsckathy.github.io/restaurant-website/
 
