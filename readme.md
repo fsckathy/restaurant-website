@@ -4,7 +4,7 @@ Site one page para um restaurante fictício, feito como projeto de portfólio.
 A ideia é mostrar como um restaurante pode apresentar cardápio, novidades e contato
 de forma simples e atrativa na internet.
 
-**Acesse o site:** https://fsckathy.github.io/restaurant-website/
+**Acesse o site:** https://fsckathy.github.io/restaurant-website-onepage/
 
 ## Sobre o projeto
 
