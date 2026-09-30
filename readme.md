@@ -12,11 +12,11 @@ de forma simples e atrativa na internet.
 
 Parti de um template gratuito em inglês e adaptei para um restaurante brasileiro:
 
-- Tradução e reescrita de todos os textos para português
-- Cardápio com pratos brasileiros e preços em reais
-- Novas descrições para os posts do blog e as novidades da casa
-- Seção de contato com telefone, endereço e e-mail
-- Título da página e rodapé atualizados, com os créditos
+- Tradução e reescrita de todos os textos para português;
+- Cardápio com pratos brasileiros e preços em reais;
+- Novas descrições para os posts do blog e as novidades da casa;
+- Seção de contato com telefone, endereço e e-mail;
+- Título da página e rodapé atualizados, com os créditos;
 
 > Casa do Sabor é um restaurante fictício. Nomes, endereço, telefone e e-mail são apenas exemplos.
 
