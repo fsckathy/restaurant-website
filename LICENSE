@@ -27,9 +27,9 @@ SOFTWARE.
 ---
 
 Third-party assets (not covered by the license above):
-- Bootstrap 3, Font Awesome 4.2, jQuery, Owl Carousel, WOW.js, animate.css:
+- Bootstrap 3, Font Awesome 4.7 (loaded from cdnjs), jQuery, Owl Carousel, WOW.js, animate.css:
   see the license header in each file.
-- Roboto Mono font: SIL Open Font License, Google Fonts.
+- Lato font: SIL Open Font License 1.1, Google Fonts.
 - Photos and written content: used with permission from their respective
   owners or under their original licenses (e.g. Unsplash License).
   Not licensed for reuse.

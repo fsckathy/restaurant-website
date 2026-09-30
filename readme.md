@@ -6,6 +6,8 @@ de forma simples e atrativa na internet.
 
 **Acesse o site:** https://fsckathy.github.io/restaurant-website-onepage/
 
+![Página inicial do site Casa do Sabor](images/screenshot.jpg)
+
 ## Sobre o projeto
 
 Parti de um template gratuito em inglês e adaptei para um restaurante brasileiro:
@@ -24,13 +26,13 @@ Parti de um template gratuito em inglês e adaptei para um restaurante brasileir
 - Bootstrap 3
 - JavaScript e jQuery
 - Owl Carousel, WOW.js e animate.css (animações e carrossel)
-- Font Awesome (ícones)
+- Font Awesome 4.7 via CDN (ícones)
 - GitHub Pages (hospedagem)
 
 ## Como rodar localmente
 
 1. Clone o repositório:
-   `git clone https://github.com/fsckathy/restaurant-website.git`
+   `git clone https://github.com/fsckathy/restaurant-website-onepage.git`
 2. Abra a pasta no VS Code.
 3. Abra o `index.html` com a extensão **Live Server**, ou dê dois cliques no arquivo para abrir no navegador.
 
