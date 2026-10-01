@@ -158,8 +158,19 @@ px      68    160    252    */
     background: -moz-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
     background: linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
   }
-  nav .block .navbar-brand img {
-    padding-left: 10px;
+  #logo-static {
+    z-index: 100000;                          
+  }
+  #navigation-sticky-wrapper.is-sticky + #logo-static {
+    z-index: 1000;                            
+  }
+  #logo-static .navbar-brand {
+    top: -68px;                               
+    left: 25px;                               
+  }
+  #logo-static .navbar-brand img {            
+    width: 60px;                              
+    height: auto;                             
   }
   nav .block .navbar-default {
     margin-top: 10px;
