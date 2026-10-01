@@ -20,7 +20,7 @@ px      68    160    252    344    436    528    620    712    */
     padding-right: 0px;
     padding-top: 20px;
   }
-  nav .block .navbar-brand img {
+  #logo-static .navbar-brand img {
     padding-left: 25px;
   }
   /*--
